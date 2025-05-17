@@ -17,6 +17,7 @@ For this stage, we are concentrating only on the console component, which serves
 🖥️ The Command Line Console
 The console mimics basic shell behavior but is tailored to interact specifically with objects in the AirBnB clone. It allows users to perform operations on the data models through typed commands.
 
+
 🛠️ Supported Functionalities
 You can interact with the system using several predefined commands, enabling you to:
 
